@@ -2,7 +2,7 @@
     --cor-primaria: #e688b4;
     --cor-secundaria: #ed74ac;
     --cor-fundo: #ffffff;
-    --cor-texto: #151428;
+    --cor-texto: #ebebf6;
     --cor-contraste: #f3eef7;
     --cor-botao: #f9f9f9;
 
@@ -14,11 +14,11 @@
 }
 
 .tema-escuro {
-    --cor-primaria: #A6CEFE;
-    --cor-secundaria: #98caff;
-    --cor-fundo: #0f172a;
+    --cor-primaria: #ed3faa;
+    --cor-secundaria: #fd77c5;
+    --cor-fundo: #ea53a1;
     --cor-texto: #ffffff;
-    --cor-contraste: #1e293b;
+    --cor-contraste: #e8417e;
     --cor-botao: #151428;
 }
 
